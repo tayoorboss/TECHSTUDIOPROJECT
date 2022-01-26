@@ -1,0 +1,41 @@
+.logo{
+    display: flex;
+    padding-left: 100px;
+}
+.bold{
+    font-weight: bold;
+    font-family: walsheim,sans-serif!important;;
+}
+.text{
+    text-transform: capitalize!important;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    font-size: medium;
+}
+.down{
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    padding-left: 450px;
+}
+nav{
+    border: none;
+    height: 60px;
+}
+.head{
+    border: groove;
+    background-size: cover;
+    background-image: url(./Tech\ Images/bg.jpg)!important;
+    min-height: 65rem;
+}
+.loca{
+    display: flex;
+    
+}
+.date{
+    display: flex;
+}
+.band{
+    border: groove; width: 700px;
+    margin-left: 100px;
+}
+.details{
+    display: flex;
+}
